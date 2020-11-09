@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTableDemo", "HashTableDemo\HashTableDemo.csproj", "{EEAD0829-B4A6-405F-8876-A9538BD1C710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAD0829-B4A6-405F-8876-A9538BD1C710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD0829-B4A6-405F-8876-A9538BD1C710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD0829-B4A6-405F-8876-A9538BD1C710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD0829-B4A6-405F-8876-A9538BD1C710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77B6C8F-A48C-4922-B64E-47425C52712B}
+	EndGlobalSection
+EndGlobal
